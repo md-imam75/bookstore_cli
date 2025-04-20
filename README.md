@@ -33,7 +33,7 @@ bookstore_cli/
    git clone https://github.com/md-imam75/bookstore_cli.git
    cd bookstore_cli
 
-    2. Run the program:
+    Run the program:
     python main.py
 
 3. Follow the on-screen menu to add/view/remove books.
